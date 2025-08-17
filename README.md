@@ -1,6 +1,4 @@
-# LogisticsShippingRates
 
-## Contributing Basics
 
 Please consider the below factors while contributing:
 
